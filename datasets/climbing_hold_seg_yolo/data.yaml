@@ -1,0 +1,9 @@
+path: c:/Users/Wojtek/PycharmProjects/PythonProject/datasets/climbing_hold_seg_yolo
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names:
+  0: hold
+  1: volume
