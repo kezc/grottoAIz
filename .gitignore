@@ -1,0 +1,19 @@
+# Model checkpoints and weights
+*.pt
+*.pth
+runs/
+training_runs/
+
+# Ultralytics cache
+*.cache
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
